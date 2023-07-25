@@ -1,2 +1,2 @@
-# Practice-chrome-extension
-chrome extension following along youtube tutorial 
+# Currency-Exchange-chrome-extension
+Basic chrome extension to convert CNY, JPY, KRW, CAD, and EUR into USD 
